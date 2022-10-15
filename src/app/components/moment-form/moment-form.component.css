@@ -1,0 +1,7 @@
+.validation p{
+    margin-top: 0.5em;
+    color: red;
+    border-left: 3px solid red;
+    padding-left: 0.3em;
+}
+
